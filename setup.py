@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bipol',
-    version='0.0.4',
+    version='0.0.5',
     description='A bipol plugin',
     license='MIT',
     author='Patrick Sanders',
