@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     description='A bipol plugin',
     author="Patrick Sanders"
-    author_email="psanders@pindrop.com",
+    author_email="mail@patricksanders.net",
     packages=find_packages(),
     py_modules=['bipol'],
     include_package_data=True,
