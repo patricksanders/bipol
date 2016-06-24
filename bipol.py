@@ -8,6 +8,6 @@ def bipol_async(client, channel, args):
 
 @command('bipol', help='listen to what he has to say')
 def bipol(client, channel, nick, message, cmd, args):
-    reactor.callLater(5, bipol_async, client, channel, args)
+    reactor.callLater(0, bipol_async, client, channel, args)
     raise ResponseNotReady
 
