@@ -1,4 +1,6 @@
 # bipol
 
-listen to the words of bipol via helga
+bipol plugin for helga
+
+listen to the words of bipol
 
